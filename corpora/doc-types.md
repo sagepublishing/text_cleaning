@@ -12,3 +12,8 @@ Brainstorming of all the documents that are of interest to political science res
 * Governmental websites
 * Social media posts
 * News articles
+* Consultations
+* Petitions
+* Other papers from open archives?
+* Reddit / any social media for context (e.g. public opinion about XYZ)
+

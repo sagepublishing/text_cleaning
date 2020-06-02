@@ -8,11 +8,11 @@ This folder gathers insights from market research, including interviews, useful 
 
 ## Content
 
-|    Folder / file name    | Purpose                                                      |
-| :----------------------: | ------------------------------------------------------------ |
-| tools-for-inspiration.md | List of all the tools that have some great features (whether functionalities, UI, built-in corpora etc.). |
-|                          |                                                              |
-|                          |                                                              |
+| Folder / file name | Purpose                                                      |
+| :----------------: | ------------------------------------------------------------ |
+| existing-tools.md  | List of tools used for pre-processing, text mining etc. Can be used to find scripts to re-use or to identify missing/interesting features. |
+|                    |                                                              |
+|                    |                                                              |
 
 
 

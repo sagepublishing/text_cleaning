@@ -2,14 +2,23 @@
 
 Brainstorm for functionalities. Based on experience + existing tools + research papers. 
 
+[TOC]
 
-## Loading text data
+> For inspiration:
+>
+> * In R: Quanteda, TidyText, tm, stringr
+> * In Python: NLPTK, spaCy
+
+
+
+##Loading text data
 
 * Character vector
 * .txt and .json
 * Other file types (.docx, .pdf etc.)
 * APIs
 * Websites
+* Load straight from cloud / websites (esp. if files are large)
 
 
 
@@ -24,14 +33,24 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 
 
 
-## Advanced cleaning
+## Advanced cleaning and tagging
 
 * Identify other languages
 * Clean URLs
 * Clean and extract text from HTML / CSS / JS
 * Correct spelling mistakes / identifies potential mistakes and improper capitalization
 
+* Speech tagging
 
+* Co-reference resolution
+
+* Collocation extraction
+
+* Identify non common words (e.g. people / locations / domain names etc.)
+
+* Conversion between US and UK english
+
+  
 
 ## Pre-analysis preparation
 
@@ -46,6 +65,7 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 
 ## Descriptive statistics
 
+* Word count
 * Top features
 * Readability
 * Lexical diversity
@@ -55,5 +75,5 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 ## Contextualization
 
 * Use external dictionaries
-* Identify non common words (e.g. people / locations)
-* Identify domain names
+
+  

@@ -2,38 +2,63 @@
 
 
 
-List of texts that can be of interest, where to find them, whether they need cleaning etc. 
+List of texts relevant to political science research, where to find them, whether they need cleaning etc. 
 
 [TOC]
 
-
-
-## Party manifesto
-
-
-
-## Debates
+## List of corpora
 
 
 
-## Speeches
+### Party manifesto
+
+* Manifesto Project
 
 
 
-## Legal documents
+### Debates
 
 
 
-## Social media
+###Speeches
 
 
 
-##News articles
+### Legal documents
 
 
 
-##Party websites
+### Social media
 
 
 
-##Governmental websites 
+### News articles
+
+
+
+### Websites (party / government)
+
+
+
+### Petitions
+
+
+
+### Consultations
+
+
+
+
+
+## Complementary text data 
+
+Texts that are not necessarily directly relevant to political science research but are used for context / complement. E.g. annotate etc.
+
+* Wikipedia
+* Network data
+* Sentiment dictionaries
+* Emotions dictionary
+
+
+
+### 
