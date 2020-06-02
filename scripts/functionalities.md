@@ -1,8 +1,7 @@
 # List of functionalities
 
+Brainstorm for functionalities. Based on experience + existing tools + research papers. 
 
-
-[TOC]
 
 ## Loading text data
 
