@@ -12,7 +12,10 @@ List of texts relevant to political science research, where to find them, whethe
 
 ### Party manifesto
 
-* Manifesto Project
+* Manifesto Project: 
+  * Largest collection of party manifestos, used *a lot* in political science research inc. European politics, election studies etc. 
+  * Case studies for text analysis include deriving party positions from text.
+  * Link: https://visuals.manifesto-project.wzb.eu/mpdb-shiny/cmp_dashboard_corpus_doc/
 
 
 
@@ -20,7 +23,7 @@ List of texts relevant to political science research, where to find them, whethe
 
 
 
-###Speeches
+### Speeches
 
 
 
