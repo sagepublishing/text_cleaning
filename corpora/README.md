@@ -28,3 +28,4 @@ This folder gathers findings about corpora that are relevant to political scienc
 
 * Will the corpora be built in? Found via a search tool that directs to the right place? Or upload only but  the software has various options to clean each type of document?
 * Is there a file output in addition to the integration with the Jupyter notebook? As in, can the user also export the clean document to a more convenient format? E.g. if they want to share it with the academic community
+* Will the tool also enable to clean "auxiliary" text data, e.g. as part of a research you might need to scrape a table on an webpage to add metadata to your corpus, which requires cleaning. In python this type of cleaning would probably be done with BeautifulSoup which cleans HTML, could build a wrapper to make it visual programming?
