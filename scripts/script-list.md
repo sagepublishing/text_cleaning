@@ -128,7 +128,20 @@ Modules that contain a set of functions and that can be imported and used in Pyt
 
 
 
-## HTML / XML parsers
+## HTML / XML parsers and crawlers
+
+
+
+### Corpus Crawler
+
+* **Description**: This crawler helps to build corpora from online texts.
+* **Type**: command line tool
+* **Link**: https://github.com/google/corpuscrawler
+* **License**: Apache License Version 2.0 
+* **Functionalities**
+  * follows links to publicly accessible web pages known to be written in a certain language
+  * removes boilerplate and HTML markup
+  * writes its output into plaintext files
 
 
 
