@@ -8,10 +8,11 @@ This folder gathers findings about corpora that are relevant to political scienc
 
 ## Content
 
-|    File name    | Purpose                                                      |
-| :-------------: | ------------------------------------------------------------ |
-|  doc-types.md   | Brainstorming of all kind of documents that are of interest to political scientists. |
-| corpora-list.md | Categorized list of corpora, description and use.            |
+|       File name        | Purpose                                                      |
+| :--------------------: | ------------------------------------------------------------ |
+|      doc-types.md      | Brainstorming of all kind of documents that are of interest to political scientists. |
+|    corpora-list.md     | Categorized list of corpora, description and use.            |
+| full_corpora_list.xlsx | List of corpora that are under an acceptable license and have good access. Sorted and classified by type, country, coverage, access option + link. |
 
 
 
