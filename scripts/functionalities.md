@@ -4,10 +4,23 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 
 [TOC]
 
-> For inspiration:
+> **Steps of text analysis:** 
 >
-> * In R: Quanteda, TidyText, tm, stringr
-> * In Python: NLPTK, spaCy
+> *From Text as Data (Benoit, 2019)*
+>
+> 1. Selecting texts and defining the corpus.
+>
+> 2. Converting of texts into a common electronic format.
+> 3. Defining documents and choosing the unit of analysis
+> 4. Defining and refining features.
+> 5. Converting of textual features into a quantitative matrix.
+> 6. Analyzing the (matrix) data using an appropriate statistical procedure. 7. Interpreting and reporting the results. 
+>
+> > **For inspiration:**
+> >
+> > * In R: Quanteda, TidyText, tm, stringr
+> >
+> > * In Python: NLPTK, spaCy
 
 
 

@@ -8,11 +8,11 @@ This folder gathers insights from market research, including interviews, useful 
 
 ## Content
 
-| Folder / file name | Purpose                                                      |
-| :----------------: | ------------------------------------------------------------ |
-| existing-tools.md  | List of tools used for pre-processing, text mining etc. Can be used to find scripts to re-use or to identify missing/interesting features. |
-|                    |                                                              |
-|                    |                                                              |
+| Folder / file name  | Purpose                                                      |
+| :-----------------: | ------------------------------------------------------------ |
+|  existing-tools.md  | List of tools used for pre-processing, text mining etc. Can be used to find scripts to re-use or to identify missing/interesting features. |
+| useful-resources.md | Some useful papers, slide decks or other material that might be useful. |
+|                     |                                                              |
 
 
 

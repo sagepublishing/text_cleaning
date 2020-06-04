@@ -8,6 +8,8 @@ All the things I don't want to forget but that don't really fit anywhere yet.
 
 A visual text mining tool like scratch? https://scratch.mit.edu/
 
+Means basically building a visual wrapper arond Python functions.
+
 
 
 ## Toughts on functionalities

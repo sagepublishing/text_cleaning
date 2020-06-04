@@ -6,7 +6,19 @@ List of texts relevant to political science research, where to find them, whethe
 
 [TOC]
 
-## List of corpora
+## Priority corpora
+
+Those are nicely formatted, easily accessible or crucial corpora.
+
+
+
+### Aggregators of political documents
+
+* The American Presidency Project: everything every president ever said (it seems)
+
+  * The core of the APP document collection is based on published collections of presidential documents: speeches, executive orders, oral addresses, statements, press conferences, campaign documents, debates etc.
+
+  * https://www.presidency.ucsb.edu/documents
 
 
 
@@ -23,7 +35,7 @@ List of texts relevant to political science research, where to find them, whethe
 
   
 
-### Debates
+### Debates / Parliamentary Sessions
 
 * European Parliament Plenary
   * Transcriptions of the Plenaries (MPs are free to speak in their native language so mix of languages)
@@ -34,10 +46,18 @@ List of texts relevant to political science research, where to find them, whethe
 * UN General Debate speeches
   * From quanteda, 2017
   * https://github.com/quanteda/quanteda.corpora
-
 * 24 parliamentary corpora
   * Can be directly downloaded from the national repositories or queried through easy-to-use online search environments. Tagged and mostly available under public licences.
   * https://www.clarin.eu/resource-families/parliamentary-corpora
+* UK Lords Written Questions
+  * 52004 questions accessible via API
+  * http://explore.data.parliament.uk/?endpoint=lordswrittenquestions#download-list
+* UK Commons Written Questions
+  * 275929 questions accessible via API
+  * http://explore.data.parliament.uk/?endpoint=commonswrittenquestions#download-list
+* UK Parliamentary Questions Answered
+  * 278428 questions accessible via API
+  * http://explore.data.parliament.uk/?endpoint=answeredquestions#download-list
 
 
 
@@ -54,10 +74,31 @@ List of texts relevant to political science research, where to find them, whethe
 
 * European Union legistlation
   * Summaries of EU legislation, main legal acts passed by the EU – intended for a general audience + full texts
-  * https://eur-lex.europa.eu/browse/summaries.html
+  * https://eur-lex.europa.eu/browse/summaries.html and as one corpus [here](https://www.sketchengine.eu/eurlex-corpus/) but license prevents commercial use
 * Trade agreements
   * Individual countries + economic areas like EU / MERCOSUR / ASEAN
   * E.g. EU - Singapore: https://trade.ec.europa.eu/doclib/press/index.cfm?id=961
+* UK bills
+  * UK Parliament 2007 to date, API endpoint for bills (meta)
+  * http://explore.data.parliament.uk/?endpoint=bills
+
+* UK Lords Bill Amendments
+  * 11727 Amendments accessible via the API
+  * http://explore.data.parliament.uk/?endpoint=lordsbillamendments#download-list
+
+
+
+### Research briefings
+
+* UK Parliament research briefings
+  * 9739 briefings accessible via API
+  * http://explore.data.parliament.uk/?endpoint=researchbriefings#download-list
+
+
+
+## Nice to have 
+
+Not priority but could be interesting. Some of these are easy to access / quick wins (esp. those with APIs).
 
 
 
@@ -83,8 +124,10 @@ List of texts relevant to political science research, where to find them, whethe
 ### Petitions
 
 * UK e-petitions
-  * Petitions from the UK online service, has an API which has an R wrapper already
+  * Petitions from the UK online service, accessible via API
   * http://www.data.parliament.uk/dataset/e-petition
+
+
 
 
 
@@ -96,4 +139,17 @@ Texts that are not necessarily directly relevant to political science research b
 * Network data
 * Dictionaries: e.g. sentiment or emotions to use automated dictionary methods with one click
 
-### 
+
+
+
+
+## Messy list of promising websites
+
+Websites that might be goldmines but would require some time to explore. 
+
+
+
+* European Language Resource Coordincation
+  * A lot of legal / official documents translated and sometimes already processed. E.g. IP case law, audits, a lot of legal texts from EU countries (not sure how useful they really are, but it is a *lot* of them, there might be some interesting ones)
+  * https://elrc-share.eu
+
