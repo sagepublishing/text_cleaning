@@ -24,4 +24,6 @@ Either we count on the user knowing regular expressions of we provide a visual t
 
 ### Easy API connections
 
-There are a lot of python wrappers to easily connect to APIs, usually they just require the key as input. Academic public new wrappers as new APIs come out which can be added over time.
+There are a lot of python wrappers to easily connect to APIs, usually they just require the key as input. Academic public new wrappers as new APIs come out which can be added over time. 
+
+Also found A LOT of APIs (cities / regions / countries have their Open Data APIs), could provide easy connection by building a bunch of wrappers.
