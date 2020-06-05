@@ -8,8 +8,8 @@
 
 ### Goals
 
-- [x] Organise GitHub
-- [x] Call with TextClean team
+- [ ] Organise GitHub
+- [ ] Call with TextClean team
 - [ ] Research corpora
 - [ ] Research needs of polsci academics
 - [ ] Research scripts / existing tools
