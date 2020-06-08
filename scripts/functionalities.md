@@ -24,7 +24,7 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 
 
 
-##Loading text data
+## Loading text data
 
 * Character vector
 * .txt and .json
