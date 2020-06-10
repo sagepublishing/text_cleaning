@@ -52,6 +52,47 @@ Modules that contain a set of functions and that can be imported and used in Pyt
 
 
 
+### nltk
+
+* **Description**:  Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+* **Type**: Python module & data sets
+
+* **Link**: https://github.com/nltk/nltk
+* **License**: Apache
+* **Languages supported**: RSLPStemmer (Portuguese), ISRIStemmer (Arabic), and SnowballStemmer (Danish, Dutch, English, Finnish, French, German, Hungarian, Italian, Norwegian, Portuguese, Romanian, Russian, Spanish, Swedish
+* **Functionalities**:
+  * split text into sentences 
+  * split text into words
+  * stop words filtering
+  * access to corpora
+  * stemming and lemmatization
+  * POS tagging
+  * normalization
+
+
+### spacy
+
+* **Description**: spaCy is a library for advanced Natural Language Processing in Python and Cython. (Useful for production level code)
+* **Type**: Python module
+
+* **Link**: https://github.com/explosion/spaCy
+* **License**: Apache
+* **Languages supported**: 50+ languages
+* **Functionalities**:
+  Text cleaning -
+  * Non-destructive tokenization
+  * Named entity recognition
+  Analysis - 
+  * pretrained statistical models and word vectors
+  * Part-of-speech tagging
+  * Labelled dependency parsing
+  * Syntax-driven sentence segmentation
+  * Built in visualizers for syntax and NER
+  * Convenient string-to-hash mapping
+  * Export to numpy data arrays
+  * Efficient binary serialization
+  
+
 ## Text extractors
 
 ### textract
