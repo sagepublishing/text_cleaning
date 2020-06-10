@@ -84,7 +84,7 @@ Easy to access relevant political texts from EU countries and institutions.
 | Political speeches      | UK           | 6000 political speeches from                                 | ?        | [Here](http://www.ukpol.co.uk)                               |
 | Official correspondence | UK           | All official correspondence of PMs                           | API      | [Here](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/prime-ministers-office-records/) |
 | PM transcripts          | Australia    | Ministerial transcripts from 1940s to date                   | API      | [Here](https://pmtranscripts.pmc.gov.au/developers)          |
-| Speeches                | EU           | All ECB President / VP speeches                              | Download | [Here]()                                                     |
+| Speeches                | EU           | All ECB President / VP speeches                              | Download | [Here](https://www.ecb.europa.eu/press/key/html/downloads.en.html)                                                     |
 | Speeches                | Germany      | 6,685 speeches by 71 officials, spanning a time from 1984 to 2017 | Download | [Here](http://adrien.barbaresi.eu/corpora/speeches/)         |
 | Speeches                | EU           | 18,403 speeches from EU leaders from 2007 to 2015            | Download | [Here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XPCVEI) |
 | State of the Nation     | South Africa | 1990 to 2018                                                 | Download | [Here](https://www.kaggle.com/allank/state-of-the-nation-1990-2017) |
