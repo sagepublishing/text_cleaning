@@ -245,3 +245,18 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * Extraction and parsing of patent and non-patent references in patent publications.
   * PDF coordinates for extracted information.
 
+
+
+### pattern
+
+* **Description**:  Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization
+* **Type**: module
+* **Link**: https://github.com/clips/pattern
+* **License**: Apache
+* **Functionalities**:
+  * Data Mining: web services (Google, Twitter, Wikipedia) 
+  * Web crawler
+  * HTML DOM parser
+  * Natural Language Processing: part-of-speech taggers, n-gram search, sentiment analysis, WordNet
+  * Machine Learning: vector space model, clustering, classification (KNN, SVM, Perceptron)
+  * Network Analysis: graph centrality and visualization.
