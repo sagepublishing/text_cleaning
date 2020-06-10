@@ -223,3 +223,25 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * cleans / remove the HTML markup
   * save the information
   * very good intro for social scientists here: https://programminghistorian.org/en/lessons/intro-to-beautiful-soup
+  
+  
+   
+### GROBID
+
+* **Description**:  GeneRation Of BIbliographic Data - GROBID is a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured XML/TEI encoded documents with a particular focus on technical and scientific publications
+* **Type**: API
+* **Link**: https://github.com/kermitt2/grobid
+* **License**: Apache
+* **Functionalities**:
+  * Header extraction and parsing from article in PDF format. 
+  * References extraction and parsing from articles in PDF format
+  * Citation contexts recognition and linking to the full bibliographical references of the article. 
+  * Parsing of references in isolation (around 0.89 f-score).
+  * Parsing of names (e.g. person title, forenames, middlename, etc.), in particular author names in header, and * author names in references (two distinct models).
+  * Parsing of affiliation and address blocks.
+  * Parsing of dates, ISO normalized day, month, year.
+  * Full text extraction and structuring from PDF articles.
+  * Consolidation/resolution of the extracted bibliographical references using the biblio-glutton service or the * * * CrossRef REST API. 
+  * Extraction and parsing of patent and non-patent references in patent publications.
+  * PDF coordinates for extracted information.
+
