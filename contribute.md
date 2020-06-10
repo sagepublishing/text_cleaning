@@ -4,24 +4,27 @@ Collecting and cleaning text can be time-consuming. We've started a list of corp
 
 ## Guidelines
 
-### Corpora   Collected corpora should be related to political science, but the region and what aspect of political science it enscapsulates is up to you.
+### Corpora   
+Collected corpora should be related to political science, but the region and what aspect of political science it enscapsulates is up to you.
 
-### Code   Code should be added to the list of packages or be a Python/R script.
+### Code   
+Code should be added to the list of packages or be a Python/R script.
 
 ## How to Contribute
 
 If you would like to contribute a corpora or code, head to the corresponding .md file. From there you can add a new results but clickingon the edit button in the top-right corner.
 
-Click on the edit button to add a file
+![Image of edit](https://github.com/sagepublishing/text_cleaning/blob/master/projects/make%20changes.png)
 
-This allows you to edit the file in Markdown. Simply add a row to the corresponding table in the same format. Make sure that the table stays sorted (with the best result on top). After you've made your change, make sure that the table still looks ok by clicking on the "Preview changes" tab at the top of the page. If everything looks good, go to the bottom of the page, where you see the below form.
+Click on the edit button to add information.
 
-Fill out the file change information
 
-Add a name for your proposed change, an optional description, indicate that you would like to "Create a new branch for this commit and start a pull request", and click on "Propose file change".
+Now you can edit use the Markdown edit to add rows to the table. After you make your changes you can preview and then commit the changes. At the bottom you will find a space to add a file change message. Add a name for the change, and let us know ifyou would like to "Create a new branch for this commit and start a pull request". Once you do, please click on "Propose file change".
+
+![Image of commit](https://github.com/sagepublishing/text_cleaning/blob/master/projects/Screen%20Shot%202020-06-10%20at%208.26.06%20AM.png)
 
 The format of the entry should match the headings of the table and include the same information:
 
 | Item | Country | Description | Access | Link |
 |------|---------|-------------|--------|------|
-|Name of the Corpora|Country or region|Number of observations or what type of data |Bulk download, API, csv, etc.|url|
+|Name of the corpora|Country or region|Number of observations or type of data |Bulk download, API, csv, etc.|url|
