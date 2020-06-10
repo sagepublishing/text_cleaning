@@ -1,6 +1,6 @@
 # Contributing
 
-Collecting and cleaning text can be time-consuming. We've started a list of corpora and text cleaning tools or code to make NLP preprocessing easier, but we need your help!
+Collecting and cleaning text can be time-consuming. We've created a list of corpora, text cleaning tools, and code to make NLP pre-processing easier -- but we need your help! With your contributions, our list of resources can grow and be shared with the NLP community. 
 
 ## Guidelines
 
