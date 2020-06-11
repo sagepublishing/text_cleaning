@@ -5,14 +5,14 @@ Collecting and cleaning text can be time-consuming. We've created a list of corp
 ## Guidelines
 
 ### Corpora   
-Collected corpora should be related to political science, but the region and what aspect of political science it enscapsulates is up to you.
+Collected corpora should be related to political science, but the region and what aspect of political science it encapsulates is up to you.
 
 ### Code   
 Code should be added to the list of packages or be a Python/R script.
 
 ## How to Contribute
 
-If you would like to contribute a corpora or code, head to the corresponding .md file. From there you can add a new results but clickingon the edit button in the top-right corner.
+If you would like to contribute a corpora or code, head to the corresponding .md file. From there you can add a new results but clicking on the edit button in the top-right corner.
 
 ![Image of edit](https://github.com/sagepublishing/text_cleaning/blob/master/projects/make%20changes.png)
 
