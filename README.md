@@ -1,4 +1,4 @@
-# Text Cleaning for Political Sciencxe
+# Text Cleaning for Political Science
 Corpora and scripts for cleaning political science texts.
 
 [Contribute to this repo](contribute.md)
