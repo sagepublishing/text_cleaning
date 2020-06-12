@@ -10,9 +10,9 @@ This folder gathers findings about text cleaning scripts.
 
 |     File name      | Purpose                                                      |
 | :----------------: | ------------------------------------------------------------ |
-|   script-list.md   | List of scripts and short description of their purpose, functions offered, license for use, and how to use them. |
+|   libraries.md     | List of libraries, description of their purpose, functions offered, license for use, and how to use them. |
 | functionalities.md | List of functionalities the tool should have. Categorised and sorted by importance / priority. |
-
+|   scripts.md       | List of individual scripts found on GitHub, StackOverflow etc. (aka. not fully-packaged) |
 
 
 ## Purpose
