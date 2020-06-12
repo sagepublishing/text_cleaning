@@ -93,7 +93,7 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * Efficient binary serialization
   
 
-## Text extractors
+## Text extractors / parsers
 
 ### textract
 
@@ -102,29 +102,29 @@ Modules that contain a set of functions and that can be imported and used in Pyt
 * **Link**: https://textract.readthedocs.io/en/stable/index.html
 * **License**: MIT
 * **Functionalities**:
- * .csv via python builtins
- * .doc via antiword
- * .docx via python-docx2txt
- * .eml via python builtins
- * .epub via ebooklib
- * .gif via tesseract-ocr
- * .jpg and .jpeg via tesseract-ocr
- * .json via python builtins
- * .html and .htm via beautifulsoup4
- * .mp3 via sox, SpeechRecognition, and pocketsphinx
- * .msg via msg-extractor
- * .odt via python builtins
- * .ogg via sox, SpeechRecognition, and pocketsphinx
- * .pdf via pdftotext (default) or pdfminer.six
- * .png via tesseract-ocr
- * .pptx via python-pptx
- * .ps via ps2text
- * .rtf via unrtf
- * .tiff and .tif via tesseract-ocr
- * .txt via python builtins
- * .wav via SpeechRecognition and pocketsphinx
- * .xlsx via xlrd
- * .xls via xlrd
+   * .csv via python builtins
+   * .doc via antiword
+   * .docx via python-docx2txt
+   * .eml via python builtins
+   * .epub via ebooklib
+   * .gif via tesseract-ocr
+   * .jpg and .jpeg via tesseract-ocr
+   * .json via python builtins
+   * .html and .htm via beautifulsoup4
+   * .mp3 via sox, SpeechRecognition, and pocketsphinx
+   * .msg via msg-extractor
+   * .odt via python builtins
+   * .ogg via sox, SpeechRecognition, and pocketsphinx
+   * .pdf via pdftotext (default) or pdfminer.six
+   * .png via tesseract-ocr
+   * .pptx via python-pptx
+   * .ps via ps2text
+   * .rtf via unrtf
+   * .tiff and .tif via tesseract-ocr
+   * .txt via python builtins
+   * .wav via SpeechRecognition and pocketsphinx
+   * .xlsx via xlrd
+   * .xls via xlrd
 
 ### PyPDF2
 
@@ -176,7 +176,9 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * Language detection + translation
 
 
+
 ### PyMuPDF
+
 * **Description**: detects headings from PDfs
 * **Type**: Python module
 * **Link**: https://towardsdatascience.com/extracting-headers-and-paragraphs-from-pdf-using-pymupdf-676e8421c467
@@ -190,6 +192,8 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * convert to other formats: PDF, (X)HTML, XML, JSON, text
 
 
+
+### Xpdf
 
 * **Description**:  Iincludes a PDF viewer along with a collection of command line tools which perform various functions on PDF files
 * **Type**: console line tool
@@ -237,7 +241,7 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * very good intro for social scientists here: https://programminghistorian.org/en/lessons/intro-to-beautiful-soup
   
   
-   
+  
 ### GROBID
 
 * **Description**:  GeneRation Of BIbliographic Data - GROBID is a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured XML/TEI encoded documents with a particular focus on technical and scientific publications

@@ -20,7 +20,7 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 > >
 > > * In R: Quanteda, TidyText, tm, stringr
 > >
-> > * In Python: NLPTK, spaCy
+> > * In Python: NLTK, spaCy
 
 
 
@@ -32,6 +32,16 @@ Brainstorm for functionalities. Based on experience + existing tools + research 
 * APIs
 * Websites
 * Load straight from cloud / websites (esp. if files are large)
+
+
+
+## Mining text
+
+* Extract the title, author, headers etc.
+* Extract blocks of text with associated metadata
+* Get encoding right
+* Extract tables
+* Extract noise (e.g. footer, reference numbers etc.)
 
 
 
