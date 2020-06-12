@@ -3,6 +3,6 @@ requests
 json
 pandas
 pdfminer
-pdfminer.six
+pdfminer.six==20181108
 tika
 PyMuPDF
