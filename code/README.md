@@ -19,8 +19,7 @@ source venv/bin/activate
 pip install --user ipykernel
 python -m ipykernel install --user --name=myenv
 
-# install required packages
-cd code
+# install required packages (this might take a while)
 pip install -r requirements.txt
 
 # then open the notebook with the myenv kernel
