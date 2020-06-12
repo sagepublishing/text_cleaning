@@ -1,0 +1,9 @@
+textract
+
+requests
+
+json
+
+pandas
+
+pdfminer
