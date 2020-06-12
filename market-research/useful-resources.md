@@ -4,9 +4,10 @@
 
 ## Political scientists in QTA 
 
-* http://pablobarbera.com
+Add blogs / sites / GitHub profiles of Quant Text Polsci researchers here: 
 
 * https://kenbenoit.net
+* http://pablobarbera.com
 
 
 
@@ -23,5 +24,5 @@
 
 ## Sources 
 
-* Thos guys create corpora from text, license doesn't allow commercialization but useful to trace back to the source: https://www.sketchengine.eu/
+* Those guys create corpora from text, license doesn't allow commercialization but useful to trace back to the source: https://www.sketchengine.eu/
 
