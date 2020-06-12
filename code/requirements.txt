@@ -1,0 +1,8 @@
+textract
+requests
+json
+pandas
+pdfminer
+pdfminer.six==20181108
+tika
+PyMuPDF

@@ -176,8 +176,20 @@ Modules that contain a set of functions and that can be imported and used in Pyt
   * Language detection + translation
 
 
+### PyMuPDF
+* **Description**: detects headings from PDfs
+* **Type**: Python module
+* **Link**: https://towardsdatascience.com/extracting-headers-and-paragraphs-from-pdf-using-pymupdf-676e8421c467
+* **License**: GNU GPL V3
+* **Functionalities**:
+  * decrypt the document
+  * access meta information, links and bookmarks
+  * render pages in raster formats (PNG and some others), or the vector format SVG
+  * search for text
+  * extract text and images
+  * convert to other formats: PDF, (X)HTML, XML, JSON, text
 
-### XPDFreader
+
 
 * **Description**:  Iincludes a PDF viewer along with a collection of command line tools which perform various functions on PDF files
 * **Type**: console line tool
