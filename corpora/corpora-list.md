@@ -62,7 +62,7 @@ Easy to access relevant political texts from EU countries and institutions.
 | The Record of Proceedings        | Wales          | All proceedings                                              | XML export                                                   | [Here](https://record.senedd.wales/XMLExport)                |
 | International Environment Agency | World          | Most environmental treaties and agreements                   | List of .txt on the website                                  | [Here](https://iea.uoregon.edu/text-index)                   |
 | Bills and Acts                   | Ireland        | All                                                          | API                                                          | [Here](https://api.oireachtas.ie)                            |
-|                                  |                |                                                              |                                                              |                                                              |
+| All trade agreements             | All            | All                                                          | Download                                                     | [Here](https://github.com/mappingtreaties/tota)              |
 |                                  |                |                                                              |                                                              |                                                              |
 
 
