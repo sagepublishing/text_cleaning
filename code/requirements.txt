@@ -1,9 +1,8 @@
 textract
-
 requests
-
 json
-
 pandas
-
 pdfminer
+pdfminer.six
+tika
+PyMuPDF
