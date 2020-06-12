@@ -25,3 +25,11 @@ pip install -r requirements.txt
 # then open the notebook with the myenv kernel
 ```
 
+## Content
+
+|    File name         | Purpose                                                      |
+| :-------------:      | ------------------------------------------------------------ |
+|  exploration.ipynb   | notebook for testing, messy for now                           |
+| requirements.txt     | libraries required to run the code in exploration.ipynb            |
+| Code_40.pdf          | sample pdf used for testing (French Environmental Code in English) |
+
