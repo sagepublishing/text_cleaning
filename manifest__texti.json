@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "scripts": [
+    {
+      "display_name": "To lowercase",
+      "function_name": "make_lowercase",
+      "file_name": "app_scripts/to_lowercase/__init__.py",
+      "file_type": "raw"
+    }
+  ]
+}
