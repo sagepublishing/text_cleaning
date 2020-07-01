@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "display_name": "To lowercase",
+  "script_file_name": "__init__.py",
+  "script_file_type": "raw",
+  "handler": "to_lowercase",
+  "function_type": "clean",
+  "options": {}
+}
