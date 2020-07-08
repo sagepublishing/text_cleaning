@@ -1,9 +1,0 @@
-{
-  "version": "0.0.1",
-  "display_name": "Remove punctuation",
-  "script_file_name": "__init__.py",
-  "script_type": "raw",
-  "handler": "remove_punctuation",
-  "function_type": "clean",
-  "options": {}
-}
