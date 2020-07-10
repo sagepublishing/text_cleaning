@@ -41,7 +41,7 @@ def replace_currency_symbols(inStr: str, opts: dict):
     
     if token is None:
         for k, v in constants.CURRENCIES.items():
-            text = text.replace(k, v)
-        return text
+            inStr = inStr.replace(k, v)
+        return inStr
     else:
         return CURRENCY_REGEX.sub(token, inStr)
