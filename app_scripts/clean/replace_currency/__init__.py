@@ -25,7 +25,7 @@ CURRENCY_REGEX = re.compile(
 )
 
 
-def replace_currency_symbols(inStr, token):
+def replace_currency_symbols(inStr: str, opts: dict):
     """
     Replace all currency symbols in ``text`` str with string specified by ``replace_with`` str.
     Args:
@@ -37,6 +37,8 @@ def replace_currency_symbols(inStr, token):
     Returns:
         str
     """
+    token = opts['token']
+    
     if token is None:
         for k, v in constants.CURRENCIES.items():
             text = text.replace(k, v)
