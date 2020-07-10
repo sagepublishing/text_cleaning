@@ -1,4 +1,6 @@
-# source: https://github.com/jfilter/clean-text/blob/master/cleantext/constants.py
+# source: https://github.com/jfilter/clean-text/
+
+import re
 
 URL_REGEX = re.compile(
     r"(?:^|(?<![\w\/\.]))"
@@ -37,6 +39,6 @@ URL_REGEX = re.compile(
     flags=re.UNICODE | re.IGNORECASE,
 )
 
-def replace_urls(inStr, replace_with=token):
+def replace_urls(inStr, token):
     """Replace all URLs in ``text`` str with ``replace_with`` str."""
     return URL_REGEX.sub(token, inStr)
