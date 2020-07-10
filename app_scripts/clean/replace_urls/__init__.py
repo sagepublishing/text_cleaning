@@ -39,6 +39,6 @@ URL_REGEX = re.compile(
     flags=re.UNICODE | re.IGNORECASE,
 )
 
-def replace_urls(inStr, token):
+def replace_urls(inStr: str, opts: dict):
     """Replace all URLs in ``text`` str with ``replace_with`` str."""
-    return URL_REGEX.sub(token, inStr)
+    return URL_REGEX.sub(opts['token'], inStr)
