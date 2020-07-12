@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 
-def normalize_english(inStr, target):
+def normalize_english(inStr: str, opts: dict):
     """Normalizes enlish to the target language (UK or US) based
     on the dictionary found here: http://www.tysto.com/uk-us-spelling-list.html"""
 
@@ -14,7 +14,7 @@ def normalize_english(inStr, target):
     translate_us_uk = dict(zip(df.US, df.UK))
 
     # get target language inputted by user
-    #target = opts['target_language']
+    target = opts['target_language']
 
     # depending on target language, search and match relevant dict
     if target == "UK":
