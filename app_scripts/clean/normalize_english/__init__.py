@@ -13,11 +13,8 @@ def normalize_english(inStr: str, opts: dict):
     translate_uk_us = dict(zip(df.UK, df.US))
     translate_us_uk = dict(zip(df.US, df.UK))
 
-    # get target language inputted by user
-    target = opts['target_language']
-
     # depending on target language, search and match relevant dict
-    if target == "UK":
+    if opts['target_language'] == "UK":
         for item in translate_us_uk.keys():
         	# the word has to be lower case to match the dictionary, but return the correct capitalization using ifelse statement
             if inStr[0].isupper():
@@ -25,7 +22,7 @@ def normalize_english(inStr: str, opts: dict):
             else:
                 return re.sub(item, translate_us_uk[item], inStr)
 
-    elif target =="US":
+    elif opts['target_language'] == "US":
         for item in translate_uk_us.keys():
         	# the word has to be lower case to match the dictionary, but return the correct capitalization using ifelse statement
             if inStr[0].isupper():
