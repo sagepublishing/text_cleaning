@@ -8,12 +8,13 @@ This folder gathers findings about text cleaning scripts.
 
 ## Content
 
-|     File name      | Purpose                                                      |
-| :----------------: | ------------------------------------------------------------ |
-|    libraries.md    | List of libraries, description of their purpose, functions offered, license for use, and how to use them. |
-| functionalities.md | List of functionalities the tool should have. Categorised and sorted by importance / priority. |
-|        code        | Folder containing useful code references and scripts         |
-|      data-dev      | Folder containing our own tests of the code/scripts on the corpora |
+|      File name      | Purpose                                                      |
+| :-----------------: | ------------------------------------------------------------ |
+|    libraries.md     | List of libraries, description of their purpose, functions offered, license for use, and how to use them. |
+| functionalities.md  | List of functionalities the tool should have. Categorised and sorted by importance / priority. |
+|        code         | Folder containing useful code references and scripts         |
+|      data-dev       | Folder containing our own tests of the code/scripts on the corpora |
+| mining_workflow.pdf | Diagram describing the steps to mine documents depending on format |
 
 
 ## Purpose

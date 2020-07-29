@@ -25,11 +25,13 @@ pip install -r requirements.txt
 
 ## Content
 
-|          File name          | Purpose                                                      |
-| :-------------------------: | ------------------------------------------------------------ |
-|      exploration.ipynb      | notebook for testing, messy for now                          |
-|      requirements.txt       | libraries required to run the code in exploration.ipynb      |
-|  sample_pdf_french_law.pdf  | sample pdf used for testing (French Environmental Code in English) |
-|  sample_xml_welsh_parl.xml  | sample xml file used for testing (welsh parliamentary proceedings) |
-| transformed_welsh_parl.json | result of transforming xml into json                         |
-
+|          File name           | Purpose                                                      |
+| :--------------------------: | ------------------------------------------------------------ |
+|      exploration.ipynb       | notebook for testing, messy for now                          |
+|       requirements.txt       | libraries required to run the code in exploration.ipynb      |
+|  sample_pdf_french_law.pdf   | sample pdf used for testing (French Environmental Code in English) |
+|  sample_xml_welsh_parl.xml   | sample xml file used for testing (welsh parliamentary proceedings) |
+| transformed_welsh_parl.json  | result of transforming xml into json - welsh parl            |
+| sample_pdf_afd_manifesto.pdf | more complex sample PDF (manifesto of the AFD)               |
+|  sample_xml_french_parl.xml  | more complex sample XML (questions to French Parliament)     |
+| transformed_french_parl.json | result of transforming xml into json - french parl           |
