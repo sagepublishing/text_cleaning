@@ -1,0 +1,10 @@
+"display_name": "Stem words",
+"handler": "stem_words",
+"category": "format",
+"tooltip": {
+    "description": "Removes the most common morphological and inflexional endings from words, i.e. porter-stemming",
+    "package_list":
+        [
+            "gensim"
+        ]
+  }
