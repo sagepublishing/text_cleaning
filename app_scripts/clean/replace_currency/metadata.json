@@ -10,7 +10,7 @@
   }
 "options_schema": [
     {
-        "label": "Replace by",
+        "label": "Replace with",
         "name": "token",
         "type": "string", 
         "description": "Replaces currency symbols with this token",
