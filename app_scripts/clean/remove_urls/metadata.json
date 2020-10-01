@@ -1,0 +1,10 @@
+"display_name": "Remove URLs",
+"handler": "remove_url",
+"category": "filter",
+"tooltip": {
+    "description": "Matches anything that contains www. or http and removes it",
+    "package_list":
+        [
+            "regular expressions"
+        ]
+  }
