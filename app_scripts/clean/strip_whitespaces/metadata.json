@@ -1,12 +1,11 @@
 "display_name": "Strip whitespaces",
 "handler": "strip_whitespaces",
 "category": "clean",
-"options_schema": [
+"details": [
   {
-    "label": "strips line",
-    "name": "token",
-    "type": "string",
-    "description": "Strips extra spaces where there are more than 2, including end of the line",
-    "default_value": "<CUR>"
+    "description": "Strips white spaces where there are more than 2 consecutive ones, also removes end of the line",
+    "packages": "gensim"
   }
 ]
+
+
