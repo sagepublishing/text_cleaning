@@ -2,7 +2,7 @@
 "handler": "replace_digits",
 "category": "replace",
 "tooltip": {
-    "description": "Replaces digits in the document by the token or characters specified",
+    "description": "Replaces digits in the document with the token or characters specified",
     "package_list":
         [
             "regular expressions"
@@ -10,10 +10,10 @@
   }
 "options_schema": [
     {
-        "label": "Replace by",
+        "label": "Replace with",
         "name": "token",
         "type": "string", 
-        "description": "Replaces each digit by this token",
+        "description": "Replaces each digit with this token",
         "default_value": "<DIGIT>"
     }
 ]
