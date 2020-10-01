@@ -1,0 +1,10 @@
+"display_name": "Fix encoding",
+"handler": "ftfy_fix_encoding",
+"category": "clean",
+"tooltip": {
+    "description": "Fixes Unicode that's broken in various ways. It does NOT take non-Unicode to output Unicode.",
+    "package_list": 
+    [
+      "ftfy"
+    ]
+}
