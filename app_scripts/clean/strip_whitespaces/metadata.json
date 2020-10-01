@@ -3,9 +3,9 @@
 "category": "clean",
 "tooltip": {
     "description": "Strips white spaces where there are more than 2 consecutive ones, also removes end of the line",
-    "packages": 
+    "package_list": 
     [
-      "gensim": "v3.8.3"
+      "gensim"
     ]
 }
 
