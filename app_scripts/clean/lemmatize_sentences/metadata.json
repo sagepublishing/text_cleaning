@@ -1,0 +1,10 @@
+"display_name": "Lemmatize sentence",
+"handler": "lemmatize_sentence",
+"category": "format",
+"tooltip": {
+    "description": "Converts words to their stemming, while respecting their context or part of speech.",
+    "package_list":
+        [
+            "nltk"
+        ]
+  }
