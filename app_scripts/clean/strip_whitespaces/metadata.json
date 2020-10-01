@@ -5,7 +5,7 @@
     "description": "Strips white spaces where there are more than 2 consecutive ones, also removes end of the line",
     "packages": 
     [
-      "gensim": "3.8.3"
+      "gensim": "v3.8.3"
     ]
 }
 
