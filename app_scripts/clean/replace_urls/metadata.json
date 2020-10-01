@@ -1,0 +1,19 @@
+"display_name": "Replace URLs with token",
+"handler": "replace_urls",
+"category": "replace",
+"tooltip": {
+    "description": "Uses regular expressions to identify URLs in text and replaces them with the specified token",
+    "package_list":
+        [
+            "regular expressions"
+        ]
+  }
+"options_schema": [
+    {
+        "label": "Replace by",
+        "name": "token",
+        "type": "string", 
+        "description": "Replaces URLs by this token",
+        "default_value": "<URL>"
+    }
+]
