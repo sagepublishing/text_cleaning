@@ -1,0 +1,10 @@
+"display_name": "Remove stopwords",
+"handler": "remove_stopwords",
+"category": "filter",
+"tooltip": {
+    "description": "Removes stopwords, as identified in Stone, Denis, Kwantes (2010) and used in gensim",
+    "package_list":
+        [
+            "gensim"
+        ]
+  }
