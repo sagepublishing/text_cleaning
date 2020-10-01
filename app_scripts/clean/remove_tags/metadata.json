@@ -1,0 +1,10 @@
+"display_name": "Remove tags",
+"handler": "remove_tags",
+"category": "clean",
+"tooltip": {
+    "description": "Removes any tags from document",
+    "package_list":
+        [
+            "gensim"
+        ]
+  }
