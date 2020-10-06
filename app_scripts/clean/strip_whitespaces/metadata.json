@@ -1,12 +1,13 @@
-"display_name": "Strip whitespaces",
-"handler": "strip_whitespaces",
-"category": "clean",
-"tooltip": {
-    "description": "Strips white spaces where there are more than 2 consecutive ones, also removes end of the line",
-    "package_list": 
-    [
-      "gensim"
-    ]
+{
+    "display_name": "Strip whitespaces",
+    "handler": "strip_whitespaces",
+    "category": "clean",
+    "tooltip": {
+        "description": "Strips white spaces where there are more than 2 consecutive ones, also removes end of the line",
+        "package_list": 
+        [
+          "gensim"
+        ]
+    }
 }
-
 
