@@ -1,10 +1,12 @@
-"display_name": "To lowercase",
-"handler": "to_lowercase",
-"category": "format",
-"tooltip": {
-    "description": "Converts all text to lowercase",
-    "package_list":
-        [
-            "none"
-        ]
-  }
+{
+    "display_name": "To lowercase",
+    "handler": "to_lowercase",
+    "category": "format",
+    "tooltip": {
+        "description": "Converts all text to lowercase",
+        "package_list":
+            [
+                "none"
+            ]
+      }
+}
