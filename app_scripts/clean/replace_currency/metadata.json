@@ -1,19 +1,21 @@
-"display_name": "Replace currency symbols with token",
-"handler": "replace_currency_symbols",
-"category": "replace",
-"tooltip": {
-    "description": "Replaces 15 different currency sybmols with a token or character that you would input",
-    "package_list":
-        [
-            "regular expressions"
-        ]
-  }
-"options_schema": [
-    {
-        "label": "Replace with",
-        "name": "token",
-        "type": "string", 
-        "description": "Replaces currency symbols with this token",
-        "default_value": "<CUR>"
-    }
-]
+{
+    "display_name": "Replace currency symbols with token",
+    "handler": "replace_currency_symbols",
+    "category": "replace",
+    "tooltip": {
+        "description": "Replaces 15 different currency sybmols with a token or character that you would input",
+        "package_list":
+            [
+                "regular expressions"
+            ]
+      }
+    "options_schema": [
+        {
+            "label": "Replace with",
+            "name": "token",
+            "type": "string", 
+            "description": "Replaces currency symbols with this token",
+            "default_value": "<CUR>"
+        }
+    ]
+}
