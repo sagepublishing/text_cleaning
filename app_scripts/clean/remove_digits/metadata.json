@@ -1,7 +1,7 @@
 {
     "display_name": "Remove digits",
     "handler": "remove_digits",
-    "category": "filter"
+    "category": "filter",
     "tooltip": {
         "description": "Removes digits or any numbers from text",
         "package_list":
