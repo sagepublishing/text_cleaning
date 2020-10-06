@@ -1,10 +1,12 @@
-"display_name": "Remove punctuation",
-"handler": "remove_punctuation",
-"category": "filter",
-"tooltip": {
-    "description": "Removes all punctuation from text.",
-    "package_list":
-        [
-            "string"
-        ]
-  }
+{
+    "display_name": "Remove punctuation",
+    "handler": "remove_punctuation",
+    "category": "filter",
+    "tooltip": {
+        "description": "Removes all punctuation from text.",
+        "package_list":
+            [
+                "string"
+            ]
+      }
+}
