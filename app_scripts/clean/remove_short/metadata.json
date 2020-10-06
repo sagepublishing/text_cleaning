@@ -1,19 +1,21 @@
-"display_name": "Remove short words",
-"handler": "remove_short",
-"category": "filter",
-"tooltip": {
-    "description": "Removes short words, or words up to the number of specified characters.",
-    "package_list":
-        [
-            "gensim"
-        ]
-  }
-"options_schema": [
-    {
-        "label": "Minimum word length",
-        "name": "minsize",
-        "type": "integer", 
-        "description": "Removes words shorter than input",
-        "default_value": 0
-    }
-]
+{
+    "display_name": "Remove short words",
+    "handler": "remove_short",
+    "category": "filter",
+    "tooltip": {
+        "description": "Removes short words, or words up to the number of specified characters.",
+        "package_list":
+            [
+                "gensim"
+            ]
+      }
+    "options_schema": [
+        {
+            "label": "Minimum word length",
+            "name": "minsize",
+            "type": "integer", 
+            "description": "Removes words shorter than input",
+            "default_value": 0
+        }
+    ]
+}
