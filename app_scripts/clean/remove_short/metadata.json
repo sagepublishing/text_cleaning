@@ -8,7 +8,7 @@
             [
                 "gensim"
             ]
-      }
+      },
     "options_schema": [
         {
             "label": "Minimum word length",
