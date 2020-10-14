@@ -1,0 +1,24 @@
+{
+    "display_name": "Remove custom stopwords",
+    "handler": "remove_custom_stopwords",
+    "category": "filter",
+    "tooltip": {
+        "description": "Removes stopwords, either as identified in Stone, Denis, Kwantes (2010) and used in gensim or added by the user",
+        "package_list":
+            [
+                "gensim"
+            ]
+      },
+    "options_schema": [
+        {
+            "label": "Custom words",
+            "name": "wordlist",
+            "type": "string", 
+            "description": "Enter a comma separated list of stopwords you would like to remove. Note: Do not add a space after the comma.",
+            "default_value": ""
+        }
+    ]
+}
+
+
+
