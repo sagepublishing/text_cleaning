@@ -3,7 +3,7 @@
     "handler": "stem_words",
     "category": "format",
     "tooltip": {
-        "description": "Removes the most common morphological and inflexional endings from words, i.e. porter-stemming",
+        "description": "Removes the most common morphological and inflexional endings from words with porter-stemming",
         "package_list":
             [
                 "gensim"

@@ -1,0 +1,12 @@
+{
+    "display_name": "Stem words (Lancaster)",
+    "handler": "stem_words_lancaster",
+    "category": "format",
+    "tooltip": {
+        "description": "Removes the most common morphological and inflexional endings from words with lancaster-stemming",
+        "package_list":
+            [
+                "nltk"
+            ]
+      }
+}
