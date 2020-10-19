@@ -1,0 +1,24 @@
+{
+    "display_name": "Remove custom pattern",
+    "handler": "remove_pattern",
+    "category": "filter",
+    "tooltip": {
+        "description": "Removes custom patterns entered by the user",
+        "package_list":
+            [
+                "re"
+            ]
+      },
+    "options_schema": [
+        {
+            "label": "Custom pattern",
+            "name": "string",
+            "type": "string", 
+            "description": "Enter the pattern you want removed",
+            "default_value": ""
+        }
+    ]
+}
+
+
+
