@@ -1,0 +1,12 @@
+{
+    "display_name": "To Sentences",
+    "handler": "to_sentences",
+    "category": "format",
+    "tooltip": {
+        "description": "Extracts all sentences.",
+        "package_list":
+            [
+                "none"
+            ]
+      }
+}

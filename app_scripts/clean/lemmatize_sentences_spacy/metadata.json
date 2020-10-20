@@ -1,12 +1,12 @@
 {
-    "display_name": "Lemmatize sentence (nltk)",
-    "handler": "lemmatize_sentence",
+    "display_name": "Lemmatize sentence (spacy)",
+    "handler": "lemmatize_sentence_spacy",
     "category": "format",
     "tooltip": {
         "description": "Converts words to their stemming, while respecting their context or part of speech.",
         "package_list":
             [
-                "nltk"
+                "spacy"
             ]
       }
 }
