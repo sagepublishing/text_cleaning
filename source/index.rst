@@ -21,4 +21,9 @@ Text cleaning with SAGE Texti!
 #############
 General Notes
 #############
-`SAGE Texti <https://sagetextipocapp.azurewebsites.net/>` is still in beta, please use with caution, and let us know if you find any bugs.
+`SAGE Texti <https://sagetextipocapp.azurewebsites.net/>`_ is still in beta, please use with caution, and let us know if you find any bugs.
+
+#############
+FAQ
+#############
+[tbd]
