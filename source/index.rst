@@ -7,6 +7,7 @@ Text cleaning with SAGE Texti!
 =========================================================
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
    :caption: Contents:
    
@@ -16,15 +17,8 @@ Text cleaning with SAGE Texti!
    transformations.rst
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
 
 #############
 General Notes
 #############
-SAGE Texti is still in beta, please use with caution, and let us know if you find any bugs.
+SAGE Texti <https://sagetextipocapp.azurewebsites.net/> is still in beta, please use with caution, and let us know if you find any bugs.
