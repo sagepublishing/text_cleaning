@@ -7,14 +7,12 @@ Text cleaning with SAGE Texti!
 =========================================================
 
 .. toctree::
-   :numbered:
    :maxdepth: 2
    :caption: Contents:
    
    newworkflow.rst
-   getpython.rst
+   faq.rst
    bugs.rst
-   transformations.rst
    resources.rst
 
 
@@ -31,6 +29,14 @@ Text currently works for pdf files, but doesn't support OCR.
 If you want to report a **bug** or suggest an **enhancement**, please use this `form <https://docs.google.com/forms/d/e/1FAIpQLSdd24kNUZxP7AAcNIa32FpykKHNjlVmQGXuR-Jrw4PjFsU00g/viewform>`_ . You will need to register with your google account to submit a screenshot. If you prefer not to, just email us directly, or raise an issue on GitHub. You can also contribute **new transformations** following these `guidelines <https://github.com/sagepublishing/text_cleaning/blob/master/contribute.md>`_ .
 
 #############
-FAQ
+Try SAGE Texti
 #############
-[tbd]
+
+Go to `SAGE Texti <https://sagetextipocapp.azurewebsites.net/>`_ to create a new account, or get in touch with daniela (dot) duca (at) sagepub.co.uk.  
+
+
+#############
+How to contribute
+#############
+
+If you have ideas for new transformations, or would like to suggest edits to the current Texti transformations, go to `our GitHub repository <https://github.com/sagepublishing/text_cleaning>`_ and raise a PR or submit an issue. 
