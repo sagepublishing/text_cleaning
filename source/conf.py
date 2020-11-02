@@ -31,6 +31,8 @@ release = 'V1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+'sphinx.ext.todo',
+'sphinx.ext.topic',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -50,7 +52,12 @@ exclude_patterns = []
 html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'SAGE-texti-logo.svg',
+    'logo_name': True,
     'github_repo': 'text_cleaning',
+    'fixed_sidebar': True,
+    'body_text':'#333',
+    'note_bg':'#FFF',
+    'note_border': '#D4006B',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
