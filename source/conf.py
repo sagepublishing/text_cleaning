@@ -51,7 +51,7 @@ exclude_patterns = []
 html_theme = 'alabaster'
 html_theme_options = {
     'logo': 'SAGE-texti-logo.svg',
-    'logo_name': True,
+    "description": "A light interface for cleaning and preprocessing text corpora",
     'github_repo': 'text_cleaning',
     'fixed_sidebar': True,
     'body_text':'#333',
