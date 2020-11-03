@@ -32,7 +32,6 @@ release = 'V1'
 # ones.
 extensions = [
 'sphinx.ext.todo',
-'sphinx.ext.topic',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
