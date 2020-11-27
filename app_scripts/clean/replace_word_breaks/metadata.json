@@ -1,0 +1,8 @@
+{
+    "display_name": "Replace hyphenated word breaks",
+    "handler": "replace_word_breaks",
+    "category": "replace",
+    "tooltip": {
+        "description": "Replaces words broken by hyphen in the document with the full unbroken word",
+      },
+}
