@@ -1,0 +1,21 @@
+{
+    "display_name": "Remove punctuation except those entered by user",
+    "handler": "remove_punctuation_except",
+    "category": "filter",
+    "tooltip": {
+        "description": "Removes all punctuation from text except those entered by user.",
+        "package_list":
+            [
+                "string"
+            ]
+      },
+    "options_schema": [
+        {
+            "label": "Custom punctuation",
+            "name": "wordlist",
+            "type": "string", 
+            "description": "Enter a space separated list of punctuation symbols you would like to keep.",
+            "default_value": ""
+        }
+    ]
+}
