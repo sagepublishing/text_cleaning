@@ -1,0 +1,12 @@
+{
+    "display_name": "Remove headers",
+    "handler": "remove_headers",
+    "category": "clean",
+    "tooltip": {
+        "description": "Remove the header or the first line",
+        "package_list":
+            [
+                "nltk"
+            ]
+      }
+}

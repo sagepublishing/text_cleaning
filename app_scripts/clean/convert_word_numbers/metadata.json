@@ -1,0 +1,12 @@
+{
+    "display_name": "Convert Word Numbers",
+    "handler": "convert_word_digits",
+    "category": "replace",
+    "tooltip": {
+        "description": "Converts word numbers to numerical digits",
+        "package_list":
+            [
+                "text2digits"
+            ]
+      }
+}

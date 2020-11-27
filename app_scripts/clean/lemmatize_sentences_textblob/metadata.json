@@ -1,0 +1,12 @@
+{
+    "display_name": "Lemmatize sentence (textblob)",
+    "handler": "lemmatize_sentence_textblob",
+    "category": "format",
+    "tooltip": {
+        "description": "Converts words to their stemming, while respecting their context or part of speech.",
+        "package_list":
+            [
+                "textblob"
+            ]
+      }
+}

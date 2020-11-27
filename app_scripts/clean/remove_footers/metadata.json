@@ -1,0 +1,12 @@
+{
+    "display_name": "Remove footers",
+    "handler": "remove_footers",
+    "category": "clean",
+    "tooltip": {
+        "description": "Remove the footer or the last line",
+        "package_list":
+            [
+                "nltk"
+            ]
+      }
+}
