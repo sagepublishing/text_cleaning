@@ -8,5 +8,14 @@
             [
                 "nltk"
             ]
-      }
+      },
+      "options_schema": [
+        {
+            "label": "Number of lines",
+            "name": "footer_lines",
+            "type": "string", 
+            "description": "Enter the number of lines in the footer",
+            "default_value": ""
+        }
+    ]
 }
