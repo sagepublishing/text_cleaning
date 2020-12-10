@@ -1,0 +1,12 @@
+{
+    "display_name": "Remove digits except in-text",
+    "handler": "remove_digits_except_intext",
+    "category": "filter",
+    "tooltip": {
+        "description": "Removes digits or any numbers from text except those that are next to text items for example, \"I have 15billion euros",
+        "package_list":
+            [
+                "re"
+            ]
+      }
+}
