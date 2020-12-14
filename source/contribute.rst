@@ -4,10 +4,6 @@
 How to Contribute
 #################
 
-# Contributing
-
-Collecting and cleaning text can be time-consuming. We've created a list of corpora, text cleaning tools, and code to make NLP pre-processing easier -- but we need your help! With your contributions, our list of resources can grow and be shared with the NLP community. 
-
 Contributing
 ============
 
