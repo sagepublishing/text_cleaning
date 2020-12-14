@@ -1,0 +1,16 @@
+textract
+
+requests
+
+json
+
+pandas
+
+pdfminer
+
+tika
+
+PyMuPDF
+
+xmltodict
+
