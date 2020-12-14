@@ -15,6 +15,7 @@ Text cleaning with SAGE Texti
    bugs.rst
    resources.rst
    examples.rst
+   contribute.rst
 
 
 
