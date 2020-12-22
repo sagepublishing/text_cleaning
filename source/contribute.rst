@@ -15,17 +15,18 @@ Guidelines
 Corpora
 ^^^^^^^
 
-Collected corpora should be related to political science, but the region and what aspect of political science it encapsulates is up to you.
+Collected corpora should be related to political science, but the region and what aspect of political science it encapsulates is up to you. 
 
-Code
+Transformations
 ^^^^
 
-Code should be added to the list of packages or be a Python/R script.
+You can add your own transformations through a pull request with this `template <https://github.com/sagepublishing/text_cleaning/blob/master/.github/pull_request_template.md>`_
+
 
 How to Contribute
 -----------------
 
-If you would like to contribute a corpora or code, head to the corresponding .md file. From there you can add a new results but clicking on the edit button in the top-right corner.
+If you would like to contribute a corpora, head to the corresponding .md file. From there you can add a new results but clicking on the edit button in the top-right corner.
 
 
 .. image:: https://github.com/sagepublishing/text_cleaning/blob/master/source/grahics/make%20changes.png
