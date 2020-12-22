@@ -11,6 +11,7 @@ Text cleaning with SAGE Texti
    :caption: Contents:
    
    newworkflow.rst
+   transformations.rst
    faq.rst
    bugs.rst
    resources.rst
