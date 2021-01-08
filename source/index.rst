@@ -8,7 +8,7 @@ Text cleaning with SAGE Texti
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Find more:
    
    newworkflow.rst
    transformations.rst
@@ -33,10 +33,3 @@ Try SAGE Texti
 ##############
 
 Go to `SAGE Texti <https://sagetextipocapp.azurewebsites.net/>`_ to create a new account, or get in touch with daniela (dot) duca (at) sagepub.co.uk.  
-
-
-#################
-How to contribute
-#################
-
-If you have ideas for new transformations, or would like to suggest edits to the current Texti transformations, go to `our GitHub repository <https://github.com/sagepublishing/text_cleaning>`_ and raise a PR or submit an issue. 

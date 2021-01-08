@@ -6,10 +6,8 @@ Resources
 
 This page contains demontsration of the kind of text processing Texti can facilitate, including examples of data sources and workflows.
 
-List of corpora
-===============
 
-List of texts relevant to political science research, where to find them, whether they need cleaning etc. 
+Below are a few tables with corpora relevant to political science research, categorized by country and key source, a link for where to find them, whether they need cleaning etc. 
 
 Parties and elections
 ^^^^^^^^^^^^^^^^^^^^^
