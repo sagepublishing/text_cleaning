@@ -2,14 +2,12 @@
 
 
 #################
-Transformations supported by Texti
+Transformations
 #################
 
 
 Texti supports several different text preprocessing transformations that you can mix and match for your specific needs. You can also create workflows or sequences of transformations. The table below summarizes and provides examples of current transformations in Texti. 
 
-Transformations
-============================
 
 .. list-table:: Transformations
    :header-rows: 1
