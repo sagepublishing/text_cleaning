@@ -14,7 +14,7 @@ Contribute transformations
 The list of transformations on Texti has been developed and curated by the SAGE Ocean Fellows, and we invite you to comment and add your own transformations that you believe others will benefit from. 
 
 .. note::
-You can add your own transformations through a pull request with this `template <https://github.com/sagepublishing/text_cleaning/blob/master/.github/pull_request_template.md>`_
+   You can add your own transformations through a pull request with this `template <https://github.com/sagepublishing/text_cleaning/blob/master/.github/pull_request_template.md>`_
 
 If you have ideas for transformations that would be useful, or that you might need, but don't know (or don't have the time) to wrrite the python code, then please raise an issue on this github repository, and we will take a look and prioritize it. If you want to see the transformations we are working on right now, head to the 'Project' tab on the repository and click into the kanban board.
 
