@@ -1,7 +1,7 @@
-.. _Examples:
+.. _Resources:
 
 #################
-What can you do with Texti?
+Resources
 #################
 
 This page contains demontsration of the kind of text processing Texti can facilitate, including examples of data sources and workflows.
@@ -10,13 +10,6 @@ List of corpora
 ===============
 
 List of texts relevant to political science research, where to find them, whether they need cleaning etc. 
-
-[TOC]
-
-Table of corpora
-----------------
-
-Easy to access relevant political texts from EU countries and institutions. 
 
 Parties and elections
 ^^^^^^^^^^^^^^^^^^^^^
@@ -418,7 +411,7 @@ Texts that are not necessarily directly relevant to political science research b
 ----
 
 US Political Science Corpora
-============================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
@@ -444,7 +437,7 @@ US Political Science Corpora
      - Download
      - http://scdb.wustl.edu/data.php
    * - Congressional speech data
-     - 
+     - US
      - Congressional-speech corpus includes labels for whether the speaker supported or opposed, by-name references between speakers, and the scores that our agreement/disagreement classifier(s), debate and related extracted information. (9.8 Mb, tar.gz format)
      - Download
      - http://www.cs.cornell.edu/home/llee/data/convote.html
