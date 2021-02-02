@@ -23,7 +23,7 @@ Parties and elections
    * - Manifesto Project
      - 51 inc. OECD
      - All political manifestos from the first democratic election onwards.
-     - API
+     - API; stata, spss, csv, xslx
      - `Here <https://visuals.manifesto-project.wzb.eu/mpdb-shiny/cmp_dashboard_corpus_doc/>`_
    * - Speeches
      - UK
@@ -60,7 +60,7 @@ Parliament Activity
      - Link
    * - Parliamentary Questions Answered
      - UK
-     - 278428 questions
+     - 278428 questions; csv
      - API
      - `Here <http://explore.data.parliament.uk/?endpoint=answeredquestions#download-list>`_
    * - EP Plenary
@@ -71,17 +71,17 @@ Parliament Activity
    * - Parliament Debates
      - France
      - Debates of the 15th legislature
-     - HTTP resolvable URIs
+     - HTTP resolvable URIs; XML
      - `Here <http://data.assemblee-nationale.fr/travaux-parlementaires/debats>`_
    * - Lords Written Questions
      - UK
      - 52004 questions
-     - API
+     - API; csv
      - `Here <http://explore.data.parliament.uk/?endpoint=lordswrittenquestions#download-list>`_
    * - Commons Written Questions
      - UK
      - 275929 questions
-     - API
+     - API; csv
      - `Here <http://explore.data.parliament.uk/?endpoint=commonswrittenquestions#download-list>`_
    * - Questions to the  Government
      - France
@@ -106,7 +106,7 @@ Parliament Activity
    * - Parliamentary speeches
      - Austria, Czech Republic, Germany, Denmark, Netherlands, NZ, Spain, Sweden, UK, Ireland
      - 21 to 32 years of data
-     - Download
+     - API on DataVerse; full-text vectors in rds
      - `Here <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN>`_
    * - Parliament Rules
      - UK
@@ -146,12 +146,12 @@ Parliament Activity
    * - Research Briefings
      - UK
      - 9739 briefings
-     - API
+     - API, csv with 500 records limit
      - `Here <http://explore.data.parliament.uk/?endpoint=researchbriefings#download-list>`_
    * - Proceedings
      - European union
      - 1996-2011
-     - Download
+     - Download, xml
      - `Here <https://www.statmt.org/europarl/>`_
 
 
@@ -211,10 +211,7 @@ Legislative Documents
      - All
      - Download
      - `Here <https://github.com/mappingtreaties/tota>`_
-   * - 
-     - 
-     - 
-     - 
+
 
 
 Identity and Culture
@@ -233,15 +230,7 @@ Identity and Culture
      - 194 countries
      - Download
      - `Here <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PZG8TH>`_
-   * - 
-     - 
-     - 
-     - 
-     - 
-   * - 
-     - 
-     - 
-     - 
+
 
 
 Presidential & Governmental Activity
@@ -257,8 +246,8 @@ Presidential & Governmental Activity
      - Link
    * - Political speeches
      - UK
-     - 6000 political speeches from
-     - ?
+     - 8000+ political speeches on British Politics
+     - HTML
      - `Here <http://www.ukpol.co.uk>`_
    * - Official correspondence
      - UK
@@ -268,27 +257,27 @@ Presidential & Governmental Activity
    * - PM transcripts
      - Australia
      - Ministerial transcripts from 1940s to date
-     - API
+     - API; xml
      - `Here <https://pmtranscripts.pmc.gov.au/developers>`_
    * - Speeches
      - EU
      - All ECB President / VP speeches
-     - Download
+     - Download; csv
      - `Here <https://www.ecb.europa.eu/press/key/html/downloads.en.html>`_
    * - Speeches
      - Germany
      - 6,685 speeches by 71 officials, spanning a time from 1984 to 2017
-     - Download
+     - Download, xml
      - `Here <http://adrien.barbaresi.eu/corpora/speeches/>`_
    * - Speeches
      - EU
      - 18,403 speeches from EU leaders from 2007 to 2015
-     - Download
+     - API from DataVerse; csv raw speeches, and term-document matrices in R
      - `Here <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XPCVEI>`_
    * - State of the Nation
      - South Africa
      - 1990 to 2018
-     - Download
+     - Download from Kaggle; txt per speech
      - `Here <https://www.kaggle.com/allank/state-of-the-nation-1990-2017>`_
 
 
@@ -311,12 +300,9 @@ Participative democracy
    * - E-petitions
      - UK
      - All official e-petitions
-     - API
-     - `Here <http://www.data.parliament.uk/dataset/e-petition>`_
-   * - 
-     - 
-     - 
-     - 
+     - API; JSON, xml, csv, HTML
+     - `Here <https://explore.data.parliament.uk/?learnmore=e-Petitions>`_
+
 
 
 News and Media
@@ -333,37 +319,37 @@ News and Media
    * - EUvsDisinfo
      - Europe
      - Debunked news articles by European External Action Services
-     - API
+     - API; HTML
      - `Here <https://euvsdisinfo.eu/disinformation-cases/>`_
-   * - Mainstream newspapers
+   * - New York Times
      - All
-     - NYT, Guardian, Bloomberg etc.
-     - API
+     - Archive metadata, books, comments, reviews, most popular articles
+     - API; JSON
      - e.g. `Here <https://developer.nytimes.com/apis>`_
    * - Public debates over European integration
      - Austria, Britain, France, Germany, Sweden, and Switzerland
      - 1970s to 2012 from newspapers
-     - Download
+     - csv, dta
      - `Here <https://poldem.eui.eu/download/>`_
    * - Public debates over globalization issues
      - Austria, Britain, France, Germany, the Netherlands, and Switzerland
      - 2004-2006 from newspapers
-     - Download
+     - csv, dta
      - `Here <https://poldem.eui.eu/download/>`_
    * - Archive of Political emais
      - Australie, Canada, France, Germany, Ireland, Italy, NZ, UK, USA
-     - 175,993 emails
-     - Unclear
+     - 348,680 emails
+     - HTML
      - `Here <http://politicalemails.org>`_
    * - News articles
-     - NA
+     - Not specified
      - 9+ million articles and metadata for each
-     - Download
+     - CSV split in 1GB zip files, download from GitHub
      - `Here <https://github.com/several27/FakeNewsCorpus>`_
    * - Poliwoops
      - Many countries including USA, UK and most European countries
      - Deleted tweets by public officials and politicians
-     - API
+     - API; JSON
      - `Here <https://www.politwoops.co.uk/page/api>`_
 
 
@@ -417,81 +403,81 @@ US Political Science Corpora
    * - Item
      - Country
      - Description
-     - Access
+     - Access/file type
      - Link
    * - General Social Survey
      - US
      - General Social Survey (GSS) monitors societal change in the US
-     - Download
-     - http://gss.norc.org/get-the-data
+     - Download: for SPSS, STATA
+     - `Here <http://gss.norc.org/get-the-data>`_
    * - The Supreme Court Database
      - US
      - Case Centered Data - Total Rows : 13,533
-     - Download
-     - http://scdb.wustl.edu/data.php
+     - Download: CSV, DTA (STATA), POR (SPSS), RDATA, XLSX
+     - `Here <http://scdb.wustl.edu/data.php>`_
    * - The Supreme Court Database
      - US
      - Justice Centered Data - Total Rows : 121,224
-     - Download
-     - http://scdb.wustl.edu/data.php
+     - Download: CSV, DTA (STATA), POR (SPSS), RDATA, XLSX
+     - `Here <http://scdb.wustl.edu/data.php>`_
    * - Congressional speech data
      - US
      - Congressional-speech corpus includes labels for whether the speaker supported or opposed, by-name references between speakers, and the scores that our agreement/disagreement classifier(s), debate and related extracted information. (9.8 Mb, tar.gz format)
-     - Download
-     - http://www.cs.cornell.edu/home/llee/data/convote.html
+     - Download: compressed tar.gz, multiple types including CSV
+     - `Here <http://www.cs.cornell.edu/home/llee/data/convote.html>`_
    * - ANES
      - US
      - Electoral behavior, political participation, and public opinion studies - Time Series Studies , Pilot Studies, Special Studies
      - Download
-     - https://electionstudies.org/data-center/
+     - `Here <https://electionstudies.org/data-center/>`_
    * - CorPS
      - US
      - CORPS is a corpus of political speeches tagged with specific audience reactions, such as APPLAUSE or LAUGHTER.
-     - Download
-     - https://hlt-nlp.fbk.eu/corps
+     - Request from marco.guerini[at]trentorise.eu and strappa[at]fbk.eu
+     - `Here <https://hlt-nlp.fbk.eu/corps>`_
    * - Congressional Record for the 43rd-114th Congresses
      - US
      - Parsed Speeches and Phrase Counts
-     - Download
-     - https://data.stanford.edu/congress_text
+     - Download: zip of organized txt files
+     - `Here <https://data.stanford.edu/congress_text>`_
    * - GDELT
      - US
-     - World's broadcast, print, and web news from nearly every corner of every country in over 100 languages
-     - CSV Download
-     - https://www.gdeltproject.org/data.html#rawdatafiles
+     - All events from broadcast, print, and web news from nearly every corner of every country in over 100 languages
+     - Download: CSV 
+     - `Here <https://www.gdeltproject.org/data.html#rawdatafiles>`_
    * - The American Presidency Project
      - US
-     - Presidential essages, papers, documents
-     - Download
-     - https://www.presidency.ucsb.edu/documents
-   * - GloWBE
+     - Presidential documents, papers, press, orders, memoranda etc
+     - HTML
+     - `Here <https://www.presidency.ucsb.edu/documents>`_
+   * - Full text corpus data
      - US
-     - 1.9 billion words of text from twenty different countries
-     - Download
-     - https://www.english-corpora.org/glowbe/
+     - 10 large corpora of English: iWeb, COCA, COHA, NOW, Coronavirus, GloWbE, TV Corpus, Movie Corpus, Soap Corpus, Wikipedia
+     - Purchase raw data in 3 formats
+     - `Here <https://www.corpusdata.org/>`_
    * - GovInfo
      - US
      - Congressional Bills; Bill Status; Bill Summaries; Commerce Business Daily; Code of Federal Regulations (Annual Edition); Electronic Code of Federal Regulations; Federal Register; United States Government Manual; House Rules and Manual; Privacy Act Issuances; Public Papers of the Presidents of the United States; Supreme Court Decisions 1937-1975 (FLITE)
-     - Download
-     - https://www.govinfo.gov/bulkdata
+     - Download: XML
+     - `Here <https://www.govinfo.gov/bulkdata>`_
    * - DIME PLUS
      - US
      - Database on Ideology, Money in Politics, and Elections: Public version 2.0
-     - Download
-     - https://data.stanford.edu/dime
+     - Download: compressed CSV
+     - `Here <https://data.stanford.edu/dime>`_
    * - Replication data for: Tracing the Flow of Policy Ideas in Legislatures: A Text Reuse Approach
      - US
      - Replication Data
-     - Download
-     - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27584
+     - Download: compressed archive 
+     - `Here <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/27584>`_
    * - CONGRESSIONAL & FEDERAL - Government Web Harvests
      - US
      - The National Archives and Records Administration (NARA) web harvests (i.e. capture) of Federal Agency public web sites since 2004
-     - Download
-     - https://www.webharvest.gov/
+     - Web harvests
+     - `Here <https://www.webharvest.gov/>`_
    * - Congress.gov - Bill Status
      - US
      - Bill Status data includes all data from the existing Bill Summaries data se
-     - XML bulk data
-     - https://www.congress.gov/about/data
+     - XML bulk data; API
+     - `Here <https://www.congress.gov/about/data>`_
 
