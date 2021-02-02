@@ -12,7 +12,7 @@ Text cleaning with SAGE Texti
    
    newworkflow.rst
    transformations.rst
-   resources.rst
+   corpora.rst
    contribute.rst
 
 

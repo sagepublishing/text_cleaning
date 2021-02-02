@@ -1,13 +1,10 @@
-.. _Resources:
+.. _Corpora:
 
 #################
-Resources
+Corpora
 #################
 
-This page contains demontsration of the kind of text processing Texti can facilitate, including examples of data sources and workflows.
-
-
-Below are a few tables with corpora relevant to political science research, categorized by country and key source, a link for where to find them, whether they need cleaning etc. 
+This page contains several corpora relevant to political science research, categorized by country and key source, a link for where to find them and a note if they are not free. We are working with many on these to develop Texti. 
 
 Parties and elections
 ^^^^^^^^^^^^^^^^^^^^^
