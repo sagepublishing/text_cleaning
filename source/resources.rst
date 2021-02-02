@@ -31,7 +31,7 @@ Course materials
 - Lessons and materials for teaching text analysis from the `Programming Historian <https://programminghistorian.org/en/lessons/>`_
 - An introduction `on how to use pre-trained vector embeddings <https://www.shanelynn.ie/word-embeddings-in-python-with-spacy-and-gensim/>`_
 - For working with shorter texts, like one sentences, where possibly there is just one topic and LDA assumes multiple topics, there is this `GSDMM model <https://towardsdatascience.com/a-unique-approach-to-short-text-clustering-part-1-algorithmic-theory-4d4fad0882e1>`_ with the full pipeline explained `here <https://towardsdatascience.com/short-text-topic-modeling-70e50a57c883>`_
-
+- Slide deck on `Computational Analysis of Political Texts <https://docs.google.com/presentation/d/1Pm2obVYPjruc-zR2URnNVd5ndtAek2wwPn4JpX-Svx8/edit>`_ from the Data and Web Science Group at the Universit of Mannheim
 
 Newsletters
 ~~~~~~~~~~~
