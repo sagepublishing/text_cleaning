@@ -193,4 +193,4 @@ Texti supports several different text preprocessing transformations that you can
      - 
 
 
-If you're interested in adding to the list, consider constributing! More details in the contribute page.
+If you're interested in adding to the list, consider contributing! More details in the contribute page.

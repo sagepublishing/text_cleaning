@@ -391,8 +391,8 @@ Texts that are not necessarily directly relevant to political science research b
 
 ----
 
-US Political Science Corpora
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+US Political Science focus
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
@@ -400,7 +400,7 @@ US Political Science Corpora
    * - Item
      - Country
      - Description
-     - Access/file type
+     - Access
      - Link
    * - General Social Survey
      - US
