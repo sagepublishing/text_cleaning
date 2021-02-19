@@ -46,5 +46,6 @@ Other interesting resources
 
 - An overview of text mining in the social sciences and humanities by Dong Nguyen, `arxiv preprint <https://arxiv.org/pdf/1907.01468.pdf>`_
 - A `critique of computational text analysis <https://opinionator.blogs.nytimes.com/2012/01/23/mind-your-ps-and-bs-the-digital-humanities-and-interpretation/>`_ in the humanities
+- An academic paper from the Workshop on Computational Humanities Research 2020, discussing the history of quantitative and computational research in the humanities, and especially the quantitative methods in history before computers; by `Michael Piotrowski and Mateusz Fafinsky <http://ceur-ws.org/Vol-2723/short16.pdf>`_
 - Estimating the degree of similarity between two texts, `a blog by Adrien Sieg <https://medium.com/@adriensieg/text-similarities-da019229c894>`_ 2018
 - `Masakhane <https://www.masakhane.io>`_ is a grassroots NLP community for Africans, by Africans. It brings people together to work on challenging research problems for African languages. Their recent EMNLP 2020 findings paper demonstrates the impact grassroots efforts can have. 
