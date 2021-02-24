@@ -1,8 +1,8 @@
 .. _Resources:
 
-#################
+##########
 Resources
-#################
+##########
 
 This page contains links to resources, tools, courses, blogs, newsletters and other interesting things relating to text mining for research.
 
@@ -49,3 +49,4 @@ Other interesting resources
 - An academic paper from the Workshop on Computational Humanities Research 2020, discussing the history of quantitative and computational research in the humanities, and especially the quantitative methods in history before computers; by `Michael Piotrowski and Mateusz Fafinsky <http://ceur-ws.org/Vol-2723/short16.pdf>`_
 - Estimating the degree of similarity between two texts, `a blog by Adrien Sieg <https://medium.com/@adriensieg/text-similarities-da019229c894>`_ 2018
 - `Masakhane <https://www.masakhane.io>`_ is a grassroots NLP community for Africans, by Africans. It brings people together to work on challenging research problems for African languages. Their recent EMNLP 2020 findings paper demonstrates the impact grassroots efforts can have. 
+- A super long and comprehensive list of great NLP resources by `Keon <https://github.com/keon/awesome-nlp>`_
