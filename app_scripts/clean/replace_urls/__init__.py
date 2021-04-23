@@ -1,3 +1,5 @@
+"""This module contains method to replace all URLs in ``text``
+str with ``replace_with`` str"""
 # source: https://github.com/jfilter/clean-text/
 
 import re
@@ -34,11 +36,11 @@ URL_REGEX = re.compile(
     # resource path
     r"(?:\/[^\)\]\}\s]*)?",
     # r"(?:$|(?![\w?!+&\/\)]))",
-    # @jfilter: I removed the line above from the regex because I don't understand what it is used for, maybe it was useful?
     # But I made sure that it does not include ), ] and } in the URL.
     flags=re.UNICODE | re.IGNORECASE,
 )
 
-def replace_urls(inStr: str, opts: dict):
+
+def replace_urls(string_value: str, opts: dict):
     """Replace all URLs in ``text`` str with ``replace_with`` str."""
-    return URL_REGEX.sub(opts['token'], inStr)
+    return URL_REGEX.sub(opts["token"], string_value)
