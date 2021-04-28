@@ -1,5 +1,5 @@
 {
-    "display_name": "Strip whitespaces",
+    "display_name": "Strip 2 or more white spaces",
     "handler": "strip_whitespaces",
     "category": "clean",
     "tooltip": {
