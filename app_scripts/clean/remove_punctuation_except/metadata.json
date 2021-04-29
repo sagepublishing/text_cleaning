@@ -1,5 +1,5 @@
 {
-    "display_name": "Remove punctuation except those entered by user",
+    "display_name": "Remove custom punctuation",
     "handler": "remove_punctuation_except",
     "category": "filter",
     "tooltip": {
